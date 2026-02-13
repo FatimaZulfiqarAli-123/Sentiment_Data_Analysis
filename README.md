@@ -31,7 +31,4 @@ You will explore text preprocessing, visualizations, and build **machine learnin
 * NLTK / SpaCy (for text preprocessing)  
 * Jupyter Notebook (VS Code)
 
----
-
-## 📂 Project Structure
 
