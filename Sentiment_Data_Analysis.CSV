@@ -1,0 +1,1001 @@
+review_id,product_name,review_text,rating,sentiment
+1,Phone Charger,fast delivery and fantastic experience,4,positive
+2,Desk Lamp,best purchase i made this year,5,positive
+3,Keyboard,fast delivery and fantastic experience,5,positive
+4,Wireless Mouse,amazing quality very satisfied with purchase,4,positive
+5,Phone Charger,super comfortable and easy to use,5,positive
+6,Wireless Mouse,great design and very reliable,5,positive
+7,Bluetooth Headphones,build quality is strong and durable,5,positive
+8,Bluetooth Headphones,fast delivery and fantastic experience,4,positive
+9,Power Bank,fast delivery and fantastic experience,5,positive
+10,Keyboard,build quality is strong and durable,4,positive
+11,Phone Charger,build quality is strong and durable,4,positive
+12,Bluetooth Headphones,build quality is strong and durable,4,positive
+13,Bluetooth Headphones,value for money really happy with this item,5,positive
+14,Phone Charger,five stars totally worth it,5,positive
+15,Power Bank,five stars totally worth it,4,positive
+16,Keyboard,fast delivery and fantastic experience,5,positive
+17,Keyboard,amazing quality very satisfied with purchase,5,positive
+18,Desk Lamp,super comfortable and easy to use,5,positive
+19,Keyboard,battery life is great and performance is smooth,5,positive
+20,Desk Lamp,amazing quality very satisfied with purchase,5,positive
+21,USB Cable,value for money really happy with this item,5,positive
+22,Wireless Mouse,great design and very reliable,5,positive
+23,USB Cable,super comfortable and easy to use,4,positive
+24,USB Cable,five stars totally worth it,4,positive
+25,Smart Watch,build quality is strong and durable,5,positive
+26,Bluetooth Headphones,great design and very reliable,5,positive
+27,Wireless Mouse,excellent product works perfectly and highly recommend,4,positive
+28,Laptop Stand,build quality is strong and durable,4,positive
+29,Power Bank,five stars totally worth it,4,positive
+30,Keyboard,battery life is great and performance is smooth,4,positive
+31,USB Cable,great design and very reliable,5,positive
+32,Phone Charger,amazing quality very satisfied with purchase,4,positive
+33,Power Bank,best purchase i made this year,5,positive
+34,USB Cable,super comfortable and easy to use,4,positive
+35,Keyboard,five stars totally worth it,5,positive
+36,Desk Lamp,great design and very reliable,4,positive
+37,USB Cable,five stars totally worth it,4,positive
+38,Desk Lamp,five stars totally worth it,5,positive
+39,Keyboard,build quality is strong and durable,4,positive
+40,Smart Watch,value for money really happy with this item,4,positive
+41,Phone Charger,super comfortable and easy to use,5,positive
+42,Smart Watch,great design and very reliable,5,positive
+43,Keyboard,battery life is great and performance is smooth,4,positive
+44,USB Cable,value for money really happy with this item,4,positive
+45,Smart Watch,battery life is great and performance is smooth,5,positive
+46,Smart Watch,battery life is great and performance is smooth,4,positive
+47,Keyboard,build quality is strong and durable,4,positive
+48,USB Cable,build quality is strong and durable,4,positive
+49,Keyboard,fast delivery and fantastic experience,4,positive
+50,Bluetooth Headphones,battery life is great and performance is smooth,5,positive
+51,Laptop Stand,excellent product works perfectly and highly recommend,4,positive
+52,Keyboard,excellent product works perfectly and highly recommend,5,positive
+53,Wireless Mouse,great design and very reliable,5,positive
+54,Laptop Stand,build quality is strong and durable,4,positive
+55,USB Cable,great design and very reliable,4,positive
+56,Keyboard,build quality is strong and durable,4,positive
+57,USB Cable,battery life is great and performance is smooth,4,positive
+58,Smart Watch,super comfortable and easy to use,5,positive
+59,Laptop Stand,best purchase i made this year,5,positive
+60,Desk Lamp,great design and very reliable,4,positive
+61,Webcam,five stars totally worth it,4,positive
+62,Desk Lamp,five stars totally worth it,4,positive
+63,Bluetooth Headphones,excellent product works perfectly and highly recommend,5,positive
+64,Desk Lamp,build quality is strong and durable,5,positive
+65,Power Bank,excellent product works perfectly and highly recommend,4,positive
+66,Smart Watch,excellent product works perfectly and highly recommend,4,positive
+67,Bluetooth Headphones,super comfortable and easy to use,4,positive
+68,USB Cable,fast delivery and fantastic experience,4,positive
+69,Smart Watch,battery life is great and performance is smooth,5,positive
+70,Wireless Mouse,super comfortable and easy to use,5,positive
+71,USB Cable,amazing quality very satisfied with purchase,5,positive
+72,Phone Charger,battery life is great and performance is smooth,4,positive
+73,Desk Lamp,super comfortable and easy to use,4,positive
+74,Phone Charger,great design and very reliable,5,positive
+75,Laptop Stand,build quality is strong and durable,4,positive
+76,Smart Watch,great design and very reliable,4,positive
+77,Bluetooth Headphones,super comfortable and easy to use,4,positive
+78,Power Bank,five stars totally worth it,5,positive
+79,Laptop Stand,excellent product works perfectly and highly recommend,4,positive
+80,Power Bank,amazing quality very satisfied with purchase,5,positive
+81,Bluetooth Headphones,excellent product works perfectly and highly recommend,4,positive
+82,Keyboard,build quality is strong and durable,5,positive
+83,Laptop Stand,build quality is strong and durable,4,positive
+84,Smart Watch,best purchase i made this year,4,positive
+85,Smart Watch,amazing quality very satisfied with purchase,4,positive
+86,Webcam,super comfortable and easy to use,5,positive
+87,Keyboard,five stars totally worth it,5,positive
+88,Smart Watch,amazing quality very satisfied with purchase,5,positive
+89,Laptop Stand,super comfortable and easy to use,5,positive
+90,USB Cable,best purchase i made this year,4,positive
+91,USB Cable,great design and very reliable,5,positive
+92,Phone Charger,build quality is strong and durable,4,positive
+93,Smart Watch,fast delivery and fantastic experience,5,positive
+94,USB Cable,excellent product works perfectly and highly recommend,5,positive
+95,Laptop Stand,best purchase i made this year,4,positive
+96,Wireless Mouse,super comfortable and easy to use,4,positive
+97,Keyboard,super comfortable and easy to use,5,positive
+98,Desk Lamp,fast delivery and fantastic experience,5,positive
+99,Power Bank,great design and very reliable,4,positive
+100,Webcam,amazing quality very satisfied with purchase,5,positive
+101,Phone Charger,great design and very reliable,5,positive
+102,Phone Charger,fast delivery and fantastic experience,4,positive
+103,Webcam,fast delivery and fantastic experience,4,positive
+104,Wireless Mouse,five stars totally worth it,4,positive
+105,Bluetooth Headphones,super comfortable and easy to use,5,positive
+106,Webcam,super comfortable and easy to use,4,positive
+107,Bluetooth Headphones,super comfortable and easy to use,4,positive
+108,Keyboard,super comfortable and easy to use,4,positive
+109,Wireless Mouse,excellent product works perfectly and highly recommend,4,positive
+110,Bluetooth Headphones,fast delivery and fantastic experience,4,positive
+111,Wireless Mouse,battery life is great and performance is smooth,4,positive
+112,Desk Lamp,super comfortable and easy to use,4,positive
+113,USB Cable,excellent product works perfectly and highly recommend,5,positive
+114,Keyboard,best purchase i made this year,5,positive
+115,Bluetooth Headphones,value for money really happy with this item,5,positive
+116,Phone Charger,great design and very reliable,4,positive
+117,Wireless Mouse,super comfortable and easy to use,4,positive
+118,Phone Charger,best purchase i made this year,5,positive
+119,USB Cable,battery life is great and performance is smooth,4,positive
+120,Keyboard,value for money really happy with this item,5,positive
+121,Phone Charger,value for money really happy with this item,4,positive
+122,Smart Watch,great design and very reliable,5,positive
+123,Phone Charger,battery life is great and performance is smooth,5,positive
+124,Laptop Stand,best purchase i made this year,4,positive
+125,USB Cable,build quality is strong and durable,5,positive
+126,Power Bank,great design and very reliable,5,positive
+127,Wireless Mouse,value for money really happy with this item,5,positive
+128,Laptop Stand,fast delivery and fantastic experience,5,positive
+129,Laptop Stand,amazing quality very satisfied with purchase,4,positive
+130,Phone Charger,fast delivery and fantastic experience,4,positive
+131,Desk Lamp,super comfortable and easy to use,5,positive
+132,Smart Watch,value for money really happy with this item,4,positive
+133,Laptop Stand,super comfortable and easy to use,4,positive
+134,Laptop Stand,great design and very reliable,4,positive
+135,Bluetooth Headphones,build quality is strong and durable,5,positive
+136,Wireless Mouse,five stars totally worth it,5,positive
+137,Bluetooth Headphones,build quality is strong and durable,5,positive
+138,Webcam,best purchase i made this year,5,positive
+139,Power Bank,excellent product works perfectly and highly recommend,4,positive
+140,Laptop Stand,value for money really happy with this item,5,positive
+141,Webcam,fast delivery and fantastic experience,4,positive
+142,Phone Charger,best purchase i made this year,4,positive
+143,Webcam,excellent product works perfectly and highly recommend,4,positive
+144,Laptop Stand,super comfortable and easy to use,4,positive
+145,Laptop Stand,build quality is strong and durable,4,positive
+146,Keyboard,excellent product works perfectly and highly recommend,5,positive
+147,Keyboard,value for money really happy with this item,5,positive
+148,Bluetooth Headphones,great design and very reliable,5,positive
+149,Bluetooth Headphones,build quality is strong and durable,4,positive
+150,Webcam,battery life is great and performance is smooth,4,positive
+151,Smart Watch,best purchase i made this year,4,positive
+152,Wireless Mouse,great design and very reliable,5,positive
+153,Power Bank,fast delivery and fantastic experience,4,positive
+154,Webcam,excellent product works perfectly and highly recommend,5,positive
+155,Smart Watch,five stars totally worth it,4,positive
+156,Desk Lamp,five stars totally worth it,4,positive
+157,USB Cable,amazing quality very satisfied with purchase,4,positive
+158,Bluetooth Headphones,excellent product works perfectly and highly recommend,5,positive
+159,Desk Lamp,super comfortable and easy to use,4,positive
+160,Desk Lamp,value for money really happy with this item,5,positive
+161,Phone Charger,battery life is great and performance is smooth,5,positive
+162,Wireless Mouse,value for money really happy with this item,5,positive
+163,Power Bank,amazing quality very satisfied with purchase,4,positive
+164,Bluetooth Headphones,best purchase i made this year,4,positive
+165,Phone Charger,great design and very reliable,5,positive
+166,Power Bank,great design and very reliable,5,positive
+167,Keyboard,great design and very reliable,4,positive
+168,Smart Watch,five stars totally worth it,5,positive
+169,Desk Lamp,battery life is great and performance is smooth,5,positive
+170,Bluetooth Headphones,super comfortable and easy to use,4,positive
+171,Power Bank,battery life is great and performance is smooth,5,positive
+172,Wireless Mouse,value for money really happy with this item,4,positive
+173,USB Cable,build quality is strong and durable,5,positive
+174,Wireless Mouse,super comfortable and easy to use,4,positive
+175,Desk Lamp,best purchase i made this year,5,positive
+176,Phone Charger,best purchase i made this year,5,positive
+177,Desk Lamp,excellent product works perfectly and highly recommend,5,positive
+178,Smart Watch,five stars totally worth it,5,positive
+179,Keyboard,build quality is strong and durable,4,positive
+180,Power Bank,great design and very reliable,5,positive
+181,Keyboard,great design and very reliable,5,positive
+182,Webcam,great design and very reliable,5,positive
+183,Phone Charger,fast delivery and fantastic experience,5,positive
+184,Wireless Mouse,amazing quality very satisfied with purchase,5,positive
+185,Smart Watch,build quality is strong and durable,5,positive
+186,Wireless Mouse,super comfortable and easy to use,4,positive
+187,Laptop Stand,five stars totally worth it,5,positive
+188,Desk Lamp,excellent product works perfectly and highly recommend,4,positive
+189,Keyboard,fast delivery and fantastic experience,4,positive
+190,Laptop Stand,build quality is strong and durable,5,positive
+191,Power Bank,great design and very reliable,5,positive
+192,Webcam,battery life is great and performance is smooth,5,positive
+193,Webcam,battery life is great and performance is smooth,5,positive
+194,Bluetooth Headphones,best purchase i made this year,4,positive
+195,Power Bank,value for money really happy with this item,4,positive
+196,Power Bank,five stars totally worth it,5,positive
+197,Bluetooth Headphones,best purchase i made this year,4,positive
+198,Phone Charger,value for money really happy with this item,5,positive
+199,Keyboard,best purchase i made this year,5,positive
+200,Smart Watch,best purchase i made this year,5,positive
+201,Wireless Mouse,great design and very reliable,4,positive
+202,Desk Lamp,great design and very reliable,5,positive
+203,Laptop Stand,fast delivery and fantastic experience,4,positive
+204,Bluetooth Headphones,super comfortable and easy to use,4,positive
+205,Webcam,fast delivery and fantastic experience,5,positive
+206,Bluetooth Headphones,best purchase i made this year,5,positive
+207,Phone Charger,five stars totally worth it,4,positive
+208,Bluetooth Headphones,build quality is strong and durable,4,positive
+209,Wireless Mouse,great design and very reliable,5,positive
+210,Webcam,five stars totally worth it,4,positive
+211,Laptop Stand,five stars totally worth it,5,positive
+212,Keyboard,best purchase i made this year,5,positive
+213,Desk Lamp,best purchase i made this year,4,positive
+214,USB Cable,great design and very reliable,5,positive
+215,Webcam,amazing quality very satisfied with purchase,4,positive
+216,Power Bank,fast delivery and fantastic experience,5,positive
+217,Phone Charger,best purchase i made this year,5,positive
+218,Desk Lamp,excellent product works perfectly and highly recommend,5,positive
+219,Wireless Mouse,great design and very reliable,4,positive
+220,USB Cable,great design and very reliable,4,positive
+221,Desk Lamp,super comfortable and easy to use,4,positive
+222,Wireless Mouse,great design and very reliable,5,positive
+223,Smart Watch,five stars totally worth it,4,positive
+224,Power Bank,five stars totally worth it,5,positive
+225,Keyboard,amazing quality very satisfied with purchase,4,positive
+226,Phone Charger,build quality is strong and durable,5,positive
+227,Desk Lamp,fast delivery and fantastic experience,4,positive
+228,Webcam,fast delivery and fantastic experience,4,positive
+229,Smart Watch,excellent product works perfectly and highly recommend,4,positive
+230,Phone Charger,build quality is strong and durable,4,positive
+231,Wireless Mouse,value for money really happy with this item,4,positive
+232,Bluetooth Headphones,great design and very reliable,5,positive
+233,Phone Charger,battery life is great and performance is smooth,5,positive
+234,Bluetooth Headphones,excellent product works perfectly and highly recommend,4,positive
+235,Wireless Mouse,fast delivery and fantastic experience,5,positive
+236,Power Bank,build quality is strong and durable,4,positive
+237,Smart Watch,battery life is great and performance is smooth,4,positive
+238,Bluetooth Headphones,amazing quality very satisfied with purchase,4,positive
+239,Keyboard,super comfortable and easy to use,5,positive
+240,USB Cable,fast delivery and fantastic experience,5,positive
+241,Wireless Mouse,fast delivery and fantastic experience,4,positive
+242,Webcam,amazing quality very satisfied with purchase,5,positive
+243,Bluetooth Headphones,five stars totally worth it,5,positive
+244,Power Bank,best purchase i made this year,5,positive
+245,Bluetooth Headphones,amazing quality very satisfied with purchase,5,positive
+246,Smart Watch,fast delivery and fantastic experience,4,positive
+247,Keyboard,best purchase i made this year,4,positive
+248,Desk Lamp,value for money really happy with this item,4,positive
+249,Bluetooth Headphones,value for money really happy with this item,4,positive
+250,USB Cable,amazing quality very satisfied with purchase,4,positive
+251,Webcam,five stars totally worth it,5,positive
+252,USB Cable,build quality is strong and durable,4,positive
+253,Bluetooth Headphones,amazing quality very satisfied with purchase,4,positive
+254,Desk Lamp,build quality is strong and durable,4,positive
+255,Keyboard,value for money really happy with this item,5,positive
+256,Keyboard,fast delivery and fantastic experience,4,positive
+257,Power Bank,value for money really happy with this item,5,positive
+258,Webcam,best purchase i made this year,5,positive
+259,Phone Charger,excellent product works perfectly and highly recommend,4,positive
+260,Wireless Mouse,value for money really happy with this item,4,positive
+261,Laptop Stand,five stars totally worth it,5,positive
+262,Keyboard,great design and very reliable,4,positive
+263,Phone Charger,value for money really happy with this item,4,positive
+264,Desk Lamp,super comfortable and easy to use,5,positive
+265,Phone Charger,five stars totally worth it,5,positive
+266,Bluetooth Headphones,battery life is great and performance is smooth,4,positive
+267,Webcam,great design and very reliable,5,positive
+268,Power Bank,fast delivery and fantastic experience,4,positive
+269,Power Bank,build quality is strong and durable,5,positive
+270,Bluetooth Headphones,build quality is strong and durable,4,positive
+271,Keyboard,best purchase i made this year,4,positive
+272,Wireless Mouse,fast delivery and fantastic experience,4,positive
+273,Desk Lamp,value for money really happy with this item,4,positive
+274,Power Bank,great design and very reliable,5,positive
+275,Phone Charger,amazing quality very satisfied with purchase,5,positive
+276,Wireless Mouse,excellent product works perfectly and highly recommend,5,positive
+277,Smart Watch,super comfortable and easy to use,5,positive
+278,Webcam,battery life is great and performance is smooth,4,positive
+279,Power Bank,value for money really happy with this item,4,positive
+280,Power Bank,fast delivery and fantastic experience,4,positive
+281,Laptop Stand,excellent product works perfectly and highly recommend,4,positive
+282,USB Cable,great design and very reliable,5,positive
+283,Power Bank,super comfortable and easy to use,4,positive
+284,Laptop Stand,fast delivery and fantastic experience,4,positive
+285,Keyboard,amazing quality very satisfied with purchase,4,positive
+286,Power Bank,five stars totally worth it,4,positive
+287,Power Bank,build quality is strong and durable,4,positive
+288,Webcam,value for money really happy with this item,4,positive
+289,Desk Lamp,great design and very reliable,4,positive
+290,Desk Lamp,amazing quality very satisfied with purchase,4,positive
+291,Laptop Stand,super comfortable and easy to use,5,positive
+292,Phone Charger,amazing quality very satisfied with purchase,4,positive
+293,Laptop Stand,fast delivery and fantastic experience,4,positive
+294,Power Bank,amazing quality very satisfied with purchase,5,positive
+295,USB Cable,amazing quality very satisfied with purchase,5,positive
+296,Bluetooth Headphones,best purchase i made this year,5,positive
+297,USB Cable,build quality is strong and durable,5,positive
+298,Smart Watch,super comfortable and easy to use,5,positive
+299,Webcam,excellent product works perfectly and highly recommend,5,positive
+300,Keyboard,great design and very reliable,5,positive
+301,Bluetooth Headphones,excellent product works perfectly and highly recommend,5,positive
+302,Desk Lamp,great design and very reliable,4,positive
+303,Power Bank,super comfortable and easy to use,4,positive
+304,Webcam,fast delivery and fantastic experience,5,positive
+305,Desk Lamp,amazing quality very satisfied with purchase,5,positive
+306,Wireless Mouse,amazing quality very satisfied with purchase,5,positive
+307,Smart Watch,amazing quality very satisfied with purchase,4,positive
+308,Webcam,build quality is strong and durable,5,positive
+309,Keyboard,fast delivery and fantastic experience,5,positive
+310,Laptop Stand,build quality is strong and durable,5,positive
+311,USB Cable,build quality is strong and durable,5,positive
+312,Smart Watch,five stars totally worth it,4,positive
+313,Power Bank,battery life is great and performance is smooth,4,positive
+314,Bluetooth Headphones,amazing quality very satisfied with purchase,4,positive
+315,Webcam,best purchase i made this year,5,positive
+316,Webcam,battery life is great and performance is smooth,5,positive
+317,USB Cable,great design and very reliable,4,positive
+318,Webcam,fast delivery and fantastic experience,4,positive
+319,Power Bank,excellent product works perfectly and highly recommend,5,positive
+320,USB Cable,best purchase i made this year,5,positive
+321,Laptop Stand,five stars totally worth it,4,positive
+322,Bluetooth Headphones,super comfortable and easy to use,4,positive
+323,Phone Charger,value for money really happy with this item,4,positive
+324,Desk Lamp,fast delivery and fantastic experience,4,positive
+325,Desk Lamp,great design and very reliable,4,positive
+326,Webcam,excellent product works perfectly and highly recommend,5,positive
+327,Smart Watch,excellent product works perfectly and highly recommend,5,positive
+328,USB Cable,value for money really happy with this item,4,positive
+329,Smart Watch,super comfortable and easy to use,5,positive
+330,Wireless Mouse,amazing quality very satisfied with purchase,5,positive
+331,Laptop Stand,five stars totally worth it,5,positive
+332,Laptop Stand,fast delivery and fantastic experience,5,positive
+333,Webcam,fast delivery and fantastic experience,5,positive
+334,Webcam,it is acceptable for daily use,3,neutral
+335,Webcam,nothing impressive but usable,3,neutral
+336,Bluetooth Headphones,decent performance for the price,3,neutral
+337,Keyboard,nothing impressive but usable,3,neutral
+338,Keyboard,works fine but could be better,3,neutral
+339,Phone Charger,standard features and normal build,3,neutral
+340,Smart Watch,satisfactory experience overall,3,neutral
+341,Keyboard,fair quality for the cost,3,neutral
+342,USB Cable,standard features and normal build,3,neutral
+343,Webcam,satisfactory experience overall,3,neutral
+344,Power Bank,product is okay does the job,3,neutral
+345,Keyboard,nothing impressive but usable,3,neutral
+346,Bluetooth Headphones,standard features and normal build,3,neutral
+347,Wireless Mouse,decent performance for the price,3,neutral
+348,Power Bank,decent performance for the price,3,neutral
+349,Smart Watch,average quality nothing special,3,neutral
+350,Desk Lamp,average quality nothing special,3,neutral
+351,Laptop Stand,works fine but could be better,3,neutral
+352,Phone Charger,fair quality for the cost,3,neutral
+353,Phone Charger,nothing impressive but usable,3,neutral
+354,Desk Lamp,standard features and normal build,3,neutral
+355,Laptop Stand,average quality nothing special,3,neutral
+356,Webcam,decent performance for the price,3,neutral
+357,USB Cable,works fine but could be better,3,neutral
+358,USB Cable,not bad not great just normal,3,neutral
+359,Keyboard,decent performance for the price,3,neutral
+360,Keyboard,product is okay does the job,3,neutral
+361,Desk Lamp,it is acceptable for daily use,3,neutral
+362,Phone Charger,satisfactory experience overall,3,neutral
+363,Bluetooth Headphones,average quality nothing special,3,neutral
+364,Webcam,average quality nothing special,3,neutral
+365,Laptop Stand,decent performance for the price,3,neutral
+366,Webcam,standard features and normal build,3,neutral
+367,Laptop Stand,fair quality for the cost,3,neutral
+368,Keyboard,product is okay does the job,3,neutral
+369,Smart Watch,not bad not great just normal,3,neutral
+370,Keyboard,not bad not great just normal,3,neutral
+371,Wireless Mouse,nothing impressive but usable,3,neutral
+372,Bluetooth Headphones,fair quality for the cost,3,neutral
+373,Webcam,works fine but could be better,3,neutral
+374,Bluetooth Headphones,product is okay does the job,3,neutral
+375,Webcam,standard features and normal build,3,neutral
+376,Laptop Stand,decent performance for the price,3,neutral
+377,USB Cable,average quality nothing special,3,neutral
+378,Phone Charger,average quality nothing special,3,neutral
+379,Power Bank,it is acceptable for daily use,3,neutral
+380,Wireless Mouse,decent performance for the price,3,neutral
+381,USB Cable,it is acceptable for daily use,3,neutral
+382,Laptop Stand,average quality nothing special,3,neutral
+383,Phone Charger,nothing impressive but usable,3,neutral
+384,Laptop Stand,average quality nothing special,3,neutral
+385,Laptop Stand,product is okay does the job,3,neutral
+386,Phone Charger,nothing impressive but usable,3,neutral
+387,Power Bank,product is okay does the job,3,neutral
+388,Phone Charger,not bad not great just normal,3,neutral
+389,Webcam,satisfactory experience overall,3,neutral
+390,Keyboard,not bad not great just normal,3,neutral
+391,Wireless Mouse,fair quality for the cost,3,neutral
+392,Keyboard,average quality nothing special,3,neutral
+393,Webcam,fair quality for the cost,3,neutral
+394,Keyboard,standard features and normal build,3,neutral
+395,Desk Lamp,works fine but could be better,3,neutral
+396,Phone Charger,average quality nothing special,3,neutral
+397,Keyboard,decent performance for the price,3,neutral
+398,Desk Lamp,not bad not great just normal,3,neutral
+399,Power Bank,fair quality for the cost,3,neutral
+400,Laptop Stand,not bad not great just normal,3,neutral
+401,Phone Charger,works fine but could be better,3,neutral
+402,Power Bank,nothing impressive but usable,3,neutral
+403,Power Bank,satisfactory experience overall,3,neutral
+404,Smart Watch,decent performance for the price,3,neutral
+405,Phone Charger,works fine but could be better,3,neutral
+406,Wireless Mouse,works fine but could be better,3,neutral
+407,Laptop Stand,works fine but could be better,3,neutral
+408,Webcam,fair quality for the cost,3,neutral
+409,Smart Watch,not bad not great just normal,3,neutral
+410,Desk Lamp,product is okay does the job,3,neutral
+411,Phone Charger,not bad not great just normal,3,neutral
+412,USB Cable,it is acceptable for daily use,3,neutral
+413,Laptop Stand,average quality nothing special,3,neutral
+414,Smart Watch,decent performance for the price,3,neutral
+415,Keyboard,not bad not great just normal,3,neutral
+416,Laptop Stand,product is okay does the job,3,neutral
+417,Webcam,it is acceptable for daily use,3,neutral
+418,Phone Charger,average quality nothing special,3,neutral
+419,Webcam,not bad not great just normal,3,neutral
+420,Webcam,not bad not great just normal,3,neutral
+421,Bluetooth Headphones,it is acceptable for daily use,3,neutral
+422,Keyboard,nothing impressive but usable,3,neutral
+423,Power Bank,average quality nothing special,3,neutral
+424,Desk Lamp,product is okay does the job,3,neutral
+425,Keyboard,satisfactory experience overall,3,neutral
+426,Phone Charger,it is acceptable for daily use,3,neutral
+427,Bluetooth Headphones,decent performance for the price,3,neutral
+428,Power Bank,not bad not great just normal,3,neutral
+429,Power Bank,product is okay does the job,3,neutral
+430,Smart Watch,it is acceptable for daily use,3,neutral
+431,Wireless Mouse,not bad not great just normal,3,neutral
+432,Desk Lamp,nothing impressive but usable,3,neutral
+433,Power Bank,works fine but could be better,3,neutral
+434,Desk Lamp,not bad not great just normal,3,neutral
+435,Desk Lamp,satisfactory experience overall,3,neutral
+436,Wireless Mouse,nothing impressive but usable,3,neutral
+437,Desk Lamp,nothing impressive but usable,3,neutral
+438,Smart Watch,average quality nothing special,3,neutral
+439,Laptop Stand,nothing impressive but usable,3,neutral
+440,Wireless Mouse,works fine but could be better,3,neutral
+441,Keyboard,product is okay does the job,3,neutral
+442,Laptop Stand,product is okay does the job,3,neutral
+443,Bluetooth Headphones,nothing impressive but usable,3,neutral
+444,Wireless Mouse,it is acceptable for daily use,3,neutral
+445,Webcam,it is acceptable for daily use,3,neutral
+446,Keyboard,product is okay does the job,3,neutral
+447,Wireless Mouse,average quality nothing special,3,neutral
+448,Phone Charger,it is acceptable for daily use,3,neutral
+449,Desk Lamp,satisfactory experience overall,3,neutral
+450,USB Cable,standard features and normal build,3,neutral
+451,Laptop Stand,average quality nothing special,3,neutral
+452,Smart Watch,works fine but could be better,3,neutral
+453,Smart Watch,average quality nothing special,3,neutral
+454,Keyboard,decent performance for the price,3,neutral
+455,Desk Lamp,it is acceptable for daily use,3,neutral
+456,Bluetooth Headphones,fair quality for the cost,3,neutral
+457,Webcam,not bad not great just normal,3,neutral
+458,Power Bank,standard features and normal build,3,neutral
+459,Webcam,standard features and normal build,3,neutral
+460,Smart Watch,nothing impressive but usable,3,neutral
+461,Desk Lamp,not bad not great just normal,3,neutral
+462,Webcam,works fine but could be better,3,neutral
+463,Smart Watch,it is acceptable for daily use,3,neutral
+464,Wireless Mouse,it is acceptable for daily use,3,neutral
+465,Phone Charger,works fine but could be better,3,neutral
+466,Wireless Mouse,not bad not great just normal,3,neutral
+467,Power Bank,decent performance for the price,3,neutral
+468,Bluetooth Headphones,fair quality for the cost,3,neutral
+469,Webcam,satisfactory experience overall,3,neutral
+470,Bluetooth Headphones,fair quality for the cost,3,neutral
+471,Wireless Mouse,fair quality for the cost,3,neutral
+472,Smart Watch,nothing impressive but usable,3,neutral
+473,Phone Charger,nothing impressive but usable,3,neutral
+474,Bluetooth Headphones,it is acceptable for daily use,3,neutral
+475,Smart Watch,average quality nothing special,3,neutral
+476,Webcam,nothing impressive but usable,3,neutral
+477,Desk Lamp,decent performance for the price,3,neutral
+478,Power Bank,fair quality for the cost,3,neutral
+479,Wireless Mouse,product is okay does the job,3,neutral
+480,USB Cable,works fine but could be better,3,neutral
+481,Phone Charger,decent performance for the price,3,neutral
+482,Webcam,not bad not great just normal,3,neutral
+483,Power Bank,satisfactory experience overall,3,neutral
+484,Wireless Mouse,standard features and normal build,3,neutral
+485,Wireless Mouse,fair quality for the cost,3,neutral
+486,Keyboard,standard features and normal build,3,neutral
+487,USB Cable,decent performance for the price,3,neutral
+488,Phone Charger,not bad not great just normal,3,neutral
+489,Desk Lamp,decent performance for the price,3,neutral
+490,Power Bank,standard features and normal build,3,neutral
+491,Desk Lamp,average quality nothing special,3,neutral
+492,Keyboard,product is okay does the job,3,neutral
+493,USB Cable,it is acceptable for daily use,3,neutral
+494,Phone Charger,it is acceptable for daily use,3,neutral
+495,Wireless Mouse,decent performance for the price,3,neutral
+496,Desk Lamp,fair quality for the cost,3,neutral
+497,Smart Watch,fair quality for the cost,3,neutral
+498,Bluetooth Headphones,works fine but could be better,3,neutral
+499,Bluetooth Headphones,product is okay does the job,3,neutral
+500,Webcam,average quality nothing special,3,neutral
+501,Power Bank,average quality nothing special,3,neutral
+502,Phone Charger,product is okay does the job,3,neutral
+503,Bluetooth Headphones,it is acceptable for daily use,3,neutral
+504,USB Cable,decent performance for the price,3,neutral
+505,Webcam,average quality nothing special,3,neutral
+506,Wireless Mouse,works fine but could be better,3,neutral
+507,Laptop Stand,not bad not great just normal,3,neutral
+508,Phone Charger,works fine but could be better,3,neutral
+509,Laptop Stand,average quality nothing special,3,neutral
+510,Laptop Stand,works fine but could be better,3,neutral
+511,USB Cable,it is acceptable for daily use,3,neutral
+512,Bluetooth Headphones,not bad not great just normal,3,neutral
+513,Webcam,decent performance for the price,3,neutral
+514,Webcam,standard features and normal build,3,neutral
+515,Bluetooth Headphones,nothing impressive but usable,3,neutral
+516,Desk Lamp,nothing impressive but usable,3,neutral
+517,USB Cable,it is acceptable for daily use,3,neutral
+518,Smart Watch,works fine but could be better,3,neutral
+519,Smart Watch,nothing impressive but usable,3,neutral
+520,Desk Lamp,decent performance for the price,3,neutral
+521,Laptop Stand,fair quality for the cost,3,neutral
+522,Smart Watch,average quality nothing special,3,neutral
+523,Laptop Stand,not bad not great just normal,3,neutral
+524,Desk Lamp,not bad not great just normal,3,neutral
+525,Wireless Mouse,product is okay does the job,3,neutral
+526,Keyboard,satisfactory experience overall,3,neutral
+527,Wireless Mouse,average quality nothing special,3,neutral
+528,Power Bank,average quality nothing special,3,neutral
+529,Laptop Stand,average quality nothing special,3,neutral
+530,Power Bank,average quality nothing special,3,neutral
+531,Power Bank,standard features and normal build,3,neutral
+532,USB Cable,decent performance for the price,3,neutral
+533,Bluetooth Headphones,fair quality for the cost,3,neutral
+534,Keyboard,fair quality for the cost,3,neutral
+535,Desk Lamp,product is okay does the job,3,neutral
+536,Bluetooth Headphones,not bad not great just normal,3,neutral
+537,Smart Watch,fair quality for the cost,3,neutral
+538,Power Bank,nothing impressive but usable,3,neutral
+539,Wireless Mouse,it is acceptable for daily use,3,neutral
+540,Phone Charger,standard features and normal build,3,neutral
+541,USB Cable,works fine but could be better,3,neutral
+542,Smart Watch,it is acceptable for daily use,3,neutral
+543,Desk Lamp,not bad not great just normal,3,neutral
+544,Bluetooth Headphones,works fine but could be better,3,neutral
+545,Smart Watch,decent performance for the price,3,neutral
+546,Bluetooth Headphones,product is okay does the job,3,neutral
+547,Phone Charger,fair quality for the cost,3,neutral
+548,Bluetooth Headphones,decent performance for the price,3,neutral
+549,Webcam,it is acceptable for daily use,3,neutral
+550,Bluetooth Headphones,average quality nothing special,3,neutral
+551,Smart Watch,it is acceptable for daily use,3,neutral
+552,USB Cable,it is acceptable for daily use,3,neutral
+553,USB Cable,product is okay does the job,3,neutral
+554,Bluetooth Headphones,average quality nothing special,3,neutral
+555,Power Bank,product is okay does the job,3,neutral
+556,Desk Lamp,not bad not great just normal,3,neutral
+557,Webcam,average quality nothing special,3,neutral
+558,USB Cable,standard features and normal build,3,neutral
+559,Webcam,decent performance for the price,3,neutral
+560,Desk Lamp,works fine but could be better,3,neutral
+561,Phone Charger,product is okay does the job,3,neutral
+562,Laptop Stand,works fine but could be better,3,neutral
+563,Bluetooth Headphones,works fine but could be better,3,neutral
+564,Desk Lamp,product is okay does the job,3,neutral
+565,Smart Watch,fair quality for the cost,3,neutral
+566,Phone Charger,decent performance for the price,3,neutral
+567,Keyboard,average quality nothing special,3,neutral
+568,Webcam,decent performance for the price,3,neutral
+569,USB Cable,not bad not great just normal,3,neutral
+570,Keyboard,product is okay does the job,3,neutral
+571,Wireless Mouse,decent performance for the price,3,neutral
+572,Desk Lamp,it is acceptable for daily use,3,neutral
+573,Laptop Stand,standard features and normal build,3,neutral
+574,USB Cable,it is acceptable for daily use,3,neutral
+575,USB Cable,standard features and normal build,3,neutral
+576,Laptop Stand,nothing impressive but usable,3,neutral
+577,Laptop Stand,standard features and normal build,3,neutral
+578,Smart Watch,product is okay does the job,3,neutral
+579,USB Cable,works fine but could be better,3,neutral
+580,Keyboard,average quality nothing special,3,neutral
+581,Wireless Mouse,decent performance for the price,3,neutral
+582,USB Cable,not bad not great just normal,3,neutral
+583,Bluetooth Headphones,nothing impressive but usable,3,neutral
+584,Desk Lamp,standard features and normal build,3,neutral
+585,Phone Charger,it is acceptable for daily use,3,neutral
+586,Bluetooth Headphones,fair quality for the cost,3,neutral
+587,USB Cable,fair quality for the cost,3,neutral
+588,Power Bank,it is acceptable for daily use,3,neutral
+589,Webcam,product is okay does the job,3,neutral
+590,Wireless Mouse,decent performance for the price,3,neutral
+591,Webcam,works fine but could be better,3,neutral
+592,USB Cable,fair quality for the cost,3,neutral
+593,Laptop Stand,satisfactory experience overall,3,neutral
+594,Smart Watch,standard features and normal build,3,neutral
+595,Laptop Stand,product is okay does the job,3,neutral
+596,Power Bank,product is okay does the job,3,neutral
+597,Wireless Mouse,not bad not great just normal,3,neutral
+598,Power Bank,standard features and normal build,3,neutral
+599,Webcam,it is acceptable for daily use,3,neutral
+600,Keyboard,average quality nothing special,3,neutral
+601,Bluetooth Headphones,decent performance for the price,3,neutral
+602,Wireless Mouse,nothing impressive but usable,3,neutral
+603,Power Bank,decent performance for the price,3,neutral
+604,Phone Charger,standard features and normal build,3,neutral
+605,Bluetooth Headphones,product is okay does the job,3,neutral
+606,Desk Lamp,product is okay does the job,3,neutral
+607,Phone Charger,nothing impressive but usable,3,neutral
+608,Laptop Stand,average quality nothing special,3,neutral
+609,Wireless Mouse,satisfactory experience overall,3,neutral
+610,Wireless Mouse,nothing impressive but usable,3,neutral
+611,Power Bank,product is okay does the job,3,neutral
+612,Laptop Stand,nothing impressive but usable,3,neutral
+613,Smart Watch,it is acceptable for daily use,3,neutral
+614,Keyboard,standard features and normal build,3,neutral
+615,Power Bank,decent performance for the price,3,neutral
+616,Phone Charger,decent performance for the price,3,neutral
+617,Bluetooth Headphones,average quality nothing special,3,neutral
+618,Keyboard,standard features and normal build,3,neutral
+619,Power Bank,it is acceptable for daily use,3,neutral
+620,Smart Watch,standard features and normal build,3,neutral
+621,Power Bank,not bad not great just normal,3,neutral
+622,Bluetooth Headphones,it is acceptable for daily use,3,neutral
+623,Power Bank,nothing impressive but usable,3,neutral
+624,Bluetooth Headphones,works fine but could be better,3,neutral
+625,Smart Watch,fair quality for the cost,3,neutral
+626,Phone Charger,standard features and normal build,3,neutral
+627,USB Cable,average quality nothing special,3,neutral
+628,Wireless Mouse,nothing impressive but usable,3,neutral
+629,Smart Watch,product is okay does the job,3,neutral
+630,Smart Watch,fair quality for the cost,3,neutral
+631,Laptop Stand,average quality nothing special,3,neutral
+632,USB Cable,not bad not great just normal,3,neutral
+633,Smart Watch,standard features and normal build,3,neutral
+634,Keyboard,not bad not great just normal,3,neutral
+635,Bluetooth Headphones,decent performance for the price,3,neutral
+636,Webcam,not bad not great just normal,3,neutral
+637,USB Cable,works fine but could be better,3,neutral
+638,Phone Charger,nothing impressive but usable,3,neutral
+639,Wireless Mouse,standard features and normal build,3,neutral
+640,Keyboard,satisfactory experience overall,3,neutral
+641,Power Bank,not bad not great just normal,3,neutral
+642,Laptop Stand,nothing impressive but usable,3,neutral
+643,USB Cable,it is acceptable for daily use,3,neutral
+644,Desk Lamp,satisfactory experience overall,3,neutral
+645,Keyboard,not bad not great just normal,3,neutral
+646,Webcam,decent performance for the price,3,neutral
+647,Webcam,fair quality for the cost,3,neutral
+648,Smart Watch,satisfactory experience overall,3,neutral
+649,Keyboard,works fine but could be better,3,neutral
+650,Phone Charger,satisfactory experience overall,3,neutral
+651,USB Cable,fair quality for the cost,3,neutral
+652,Desk Lamp,works fine but could be better,3,neutral
+653,Desk Lamp,average quality nothing special,3,neutral
+654,Laptop Stand,product is okay does the job,3,neutral
+655,Power Bank,average quality nothing special,3,neutral
+656,Desk Lamp,works fine but could be better,3,neutral
+657,Wireless Mouse,decent performance for the price,3,neutral
+658,Keyboard,decent performance for the price,3,neutral
+659,Laptop Stand,average quality nothing special,3,neutral
+660,Keyboard,average quality nothing special,3,neutral
+661,Keyboard,fair quality for the cost,3,neutral
+662,Webcam,decent performance for the price,3,neutral
+663,Webcam,decent performance for the price,3,neutral
+664,USB Cable,it is acceptable for daily use,3,neutral
+665,Smart Watch,satisfactory experience overall,3,neutral
+666,Laptop Stand,nothing impressive but usable,3,neutral
+667,Wireless Mouse,product arrived damaged,1,negative
+668,Smart Watch,very disappointed stopped working quickly,1,negative
+669,Wireless Mouse,customer service was bad,1,negative
+670,Phone Charger,battery drains fast not recommended,2,negative
+671,Desk Lamp,very disappointed stopped working quickly,2,negative
+672,Desk Lamp,product arrived damaged,1,negative
+673,Laptop Stand,not worth the price at all,1,negative
+674,Bluetooth Headphones,customer service was bad,1,negative
+675,Laptop Stand,product arrived damaged,2,negative
+676,Phone Charger,cheap material broke after few days,2,negative
+677,Webcam,very disappointed stopped working quickly,2,negative
+678,Desk Lamp,product arrived damaged,1,negative
+679,Desk Lamp,not worth the price at all,2,negative
+680,Desk Lamp,customer service was bad,2,negative
+681,Webcam,product arrived damaged,2,negative
+682,Webcam,performance is very slow and frustrating,2,negative
+683,Keyboard,one star extremely unhappy with purchase,1,negative
+684,Bluetooth Headphones,performance is very slow and frustrating,1,negative
+685,Power Bank,not worth the price at all,2,negative
+686,Wireless Mouse,poor quality waste of money,2,negative
+687,Smart Watch,customer service was bad,2,negative
+688,USB Cable,poor quality waste of money,1,negative
+689,Wireless Mouse,performance is very slow and frustrating,2,negative
+690,Phone Charger,battery drains fast not recommended,2,negative
+691,Keyboard,performance is very slow and frustrating,1,negative
+692,Laptop Stand,battery drains fast not recommended,2,negative
+693,Power Bank,terrible experience would not buy again,1,negative
+694,Smart Watch,product arrived damaged,1,negative
+695,Desk Lamp,performance is very slow and frustrating,1,negative
+696,Laptop Stand,poor quality waste of money,2,negative
+697,Bluetooth Headphones,performance is very slow and frustrating,1,negative
+698,Phone Charger,not worth the price at all,1,negative
+699,Laptop Stand,poor quality waste of money,2,negative
+700,Desk Lamp,poor quality waste of money,2,negative
+701,Laptop Stand,battery drains fast not recommended,2,negative
+702,Smart Watch,poor quality waste of money,1,negative
+703,USB Cable,customer service was bad,1,negative
+704,Smart Watch,not worth the price at all,2,negative
+705,Desk Lamp,poor quality waste of money,2,negative
+706,Bluetooth Headphones,product arrived damaged,1,negative
+707,USB Cable,product arrived damaged,2,negative
+708,Desk Lamp,terrible experience would not buy again,1,negative
+709,Laptop Stand,customer service was bad,1,negative
+710,Smart Watch,cheap material broke after few days,2,negative
+711,Power Bank,poor quality waste of money,2,negative
+712,Phone Charger,battery drains fast not recommended,1,negative
+713,Power Bank,battery drains fast not recommended,1,negative
+714,USB Cable,poor quality waste of money,2,negative
+715,Webcam,not worth the price at all,1,negative
+716,Keyboard,not worth the price at all,1,negative
+717,Laptop Stand,product arrived damaged,2,negative
+718,Power Bank,poor quality waste of money,1,negative
+719,USB Cable,customer service was bad,1,negative
+720,Wireless Mouse,poor quality waste of money,2,negative
+721,Smart Watch,not worth the price at all,2,negative
+722,Bluetooth Headphones,terrible experience would not buy again,1,negative
+723,Desk Lamp,battery drains fast not recommended,2,negative
+724,USB Cable,not worth the price at all,2,negative
+725,Desk Lamp,product arrived damaged,2,negative
+726,Keyboard,performance is very slow and frustrating,1,negative
+727,Bluetooth Headphones,not worth the price at all,2,negative
+728,Webcam,customer service was bad,2,negative
+729,Wireless Mouse,one star extremely unhappy with purchase,1,negative
+730,Phone Charger,one star extremely unhappy with purchase,2,negative
+731,Phone Charger,customer service was bad,2,negative
+732,Laptop Stand,product arrived damaged,2,negative
+733,Keyboard,poor quality waste of money,1,negative
+734,Keyboard,not worth the price at all,1,negative
+735,USB Cable,one star extremely unhappy with purchase,1,negative
+736,Laptop Stand,cheap material broke after few days,1,negative
+737,Phone Charger,not worth the price at all,2,negative
+738,USB Cable,one star extremely unhappy with purchase,1,negative
+739,Desk Lamp,very disappointed stopped working quickly,1,negative
+740,Power Bank,customer service was bad,2,negative
+741,Bluetooth Headphones,very disappointed stopped working quickly,1,negative
+742,Power Bank,one star extremely unhappy with purchase,1,negative
+743,Laptop Stand,cheap material broke after few days,1,negative
+744,Power Bank,poor quality waste of money,1,negative
+745,Bluetooth Headphones,product arrived damaged,2,negative
+746,Desk Lamp,poor quality waste of money,1,negative
+747,Desk Lamp,not worth the price at all,1,negative
+748,Power Bank,one star extremely unhappy with purchase,1,negative
+749,Bluetooth Headphones,cheap material broke after few days,1,negative
+750,Webcam,battery drains fast not recommended,1,negative
+751,Smart Watch,performance is very slow and frustrating,2,negative
+752,Desk Lamp,customer service was bad,1,negative
+753,Keyboard,one star extremely unhappy with purchase,2,negative
+754,Bluetooth Headphones,product arrived damaged,1,negative
+755,Webcam,performance is very slow and frustrating,1,negative
+756,Keyboard,poor quality waste of money,2,negative
+757,Webcam,battery drains fast not recommended,2,negative
+758,Power Bank,cheap material broke after few days,2,negative
+759,Wireless Mouse,customer service was bad,1,negative
+760,Laptop Stand,one star extremely unhappy with purchase,1,negative
+761,Webcam,not worth the price at all,1,negative
+762,Bluetooth Headphones,customer service was bad,1,negative
+763,Webcam,performance is very slow and frustrating,1,negative
+764,Webcam,poor quality waste of money,1,negative
+765,Wireless Mouse,battery drains fast not recommended,2,negative
+766,Keyboard,customer service was bad,2,negative
+767,USB Cable,one star extremely unhappy with purchase,1,negative
+768,Desk Lamp,poor quality waste of money,2,negative
+769,Desk Lamp,not worth the price at all,1,negative
+770,Smart Watch,very disappointed stopped working quickly,2,negative
+771,Keyboard,product arrived damaged,2,negative
+772,Bluetooth Headphones,poor quality waste of money,1,negative
+773,Desk Lamp,poor quality waste of money,2,negative
+774,Bluetooth Headphones,not worth the price at all,2,negative
+775,Bluetooth Headphones,one star extremely unhappy with purchase,2,negative
+776,Phone Charger,terrible experience would not buy again,1,negative
+777,Wireless Mouse,one star extremely unhappy with purchase,2,negative
+778,USB Cable,poor quality waste of money,2,negative
+779,Desk Lamp,performance is very slow and frustrating,1,negative
+780,Phone Charger,not worth the price at all,1,negative
+781,USB Cable,not worth the price at all,1,negative
+782,Wireless Mouse,product arrived damaged,2,negative
+783,Phone Charger,cheap material broke after few days,1,negative
+784,Bluetooth Headphones,terrible experience would not buy again,1,negative
+785,USB Cable,battery drains fast not recommended,2,negative
+786,Wireless Mouse,not worth the price at all,1,negative
+787,Power Bank,customer service was bad,1,negative
+788,Bluetooth Headphones,poor quality waste of money,2,negative
+789,Smart Watch,product arrived damaged,2,negative
+790,Smart Watch,very disappointed stopped working quickly,1,negative
+791,Power Bank,product arrived damaged,2,negative
+792,Webcam,product arrived damaged,2,negative
+793,Smart Watch,customer service was bad,2,negative
+794,Phone Charger,terrible experience would not buy again,1,negative
+795,USB Cable,performance is very slow and frustrating,2,negative
+796,Bluetooth Headphones,cheap material broke after few days,1,negative
+797,USB Cable,poor quality waste of money,2,negative
+798,Webcam,performance is very slow and frustrating,1,negative
+799,Desk Lamp,battery drains fast not recommended,2,negative
+800,Laptop Stand,poor quality waste of money,1,negative
+801,Wireless Mouse,product arrived damaged,1,negative
+802,Smart Watch,very disappointed stopped working quickly,2,negative
+803,Power Bank,terrible experience would not buy again,1,negative
+804,Keyboard,customer service was bad,2,negative
+805,Webcam,not worth the price at all,2,negative
+806,USB Cable,battery drains fast not recommended,2,negative
+807,Webcam,customer service was bad,2,negative
+808,Desk Lamp,one star extremely unhappy with purchase,2,negative
+809,Phone Charger,performance is very slow and frustrating,1,negative
+810,Smart Watch,one star extremely unhappy with purchase,2,negative
+811,Keyboard,customer service was bad,1,negative
+812,USB Cable,poor quality waste of money,2,negative
+813,Wireless Mouse,cheap material broke after few days,2,negative
+814,Wireless Mouse,product arrived damaged,1,negative
+815,Keyboard,product arrived damaged,1,negative
+816,Laptop Stand,cheap material broke after few days,2,negative
+817,Bluetooth Headphones,one star extremely unhappy with purchase,1,negative
+818,Smart Watch,terrible experience would not buy again,2,negative
+819,Webcam,terrible experience would not buy again,1,negative
+820,Bluetooth Headphones,terrible experience would not buy again,2,negative
+821,Phone Charger,not worth the price at all,2,negative
+822,Wireless Mouse,poor quality waste of money,2,negative
+823,Power Bank,customer service was bad,2,negative
+824,USB Cable,very disappointed stopped working quickly,1,negative
+825,Wireless Mouse,one star extremely unhappy with purchase,2,negative
+826,Bluetooth Headphones,customer service was bad,2,negative
+827,Power Bank,customer service was bad,1,negative
+828,Bluetooth Headphones,poor quality waste of money,2,negative
+829,Keyboard,product arrived damaged,2,negative
+830,USB Cable,cheap material broke after few days,2,negative
+831,Laptop Stand,cheap material broke after few days,1,negative
+832,Laptop Stand,cheap material broke after few days,1,negative
+833,USB Cable,terrible experience would not buy again,2,negative
+834,Webcam,one star extremely unhappy with purchase,2,negative
+835,Webcam,not worth the price at all,2,negative
+836,Wireless Mouse,performance is very slow and frustrating,2,negative
+837,Smart Watch,customer service was bad,2,negative
+838,Phone Charger,performance is very slow and frustrating,2,negative
+839,Desk Lamp,customer service was bad,2,negative
+840,Desk Lamp,customer service was bad,2,negative
+841,Wireless Mouse,very disappointed stopped working quickly,1,negative
+842,Wireless Mouse,battery drains fast not recommended,2,negative
+843,Webcam,performance is very slow and frustrating,2,negative
+844,Phone Charger,very disappointed stopped working quickly,2,negative
+845,Phone Charger,product arrived damaged,1,negative
+846,Smart Watch,very disappointed stopped working quickly,1,negative
+847,Bluetooth Headphones,very disappointed stopped working quickly,1,negative
+848,Webcam,not worth the price at all,2,negative
+849,Wireless Mouse,product arrived damaged,1,negative
+850,Laptop Stand,product arrived damaged,1,negative
+851,Bluetooth Headphones,cheap material broke after few days,1,negative
+852,Keyboard,poor quality waste of money,1,negative
+853,Desk Lamp,not worth the price at all,2,negative
+854,Phone Charger,poor quality waste of money,1,negative
+855,Bluetooth Headphones,terrible experience would not buy again,1,negative
+856,Wireless Mouse,battery drains fast not recommended,2,negative
+857,Webcam,terrible experience would not buy again,2,negative
+858,Keyboard,product arrived damaged,1,negative
+859,Webcam,battery drains fast not recommended,2,negative
+860,Keyboard,terrible experience would not buy again,1,negative
+861,USB Cable,performance is very slow and frustrating,2,negative
+862,Wireless Mouse,very disappointed stopped working quickly,2,negative
+863,Smart Watch,customer service was bad,1,negative
+864,Smart Watch,performance is very slow and frustrating,2,negative
+865,Wireless Mouse,one star extremely unhappy with purchase,2,negative
+866,USB Cable,product arrived damaged,2,negative
+867,USB Cable,performance is very slow and frustrating,1,negative
+868,Keyboard,one star extremely unhappy with purchase,1,negative
+869,Smart Watch,not worth the price at all,2,negative
+870,Phone Charger,product arrived damaged,2,negative
+871,Wireless Mouse,battery drains fast not recommended,1,negative
+872,USB Cable,poor quality waste of money,1,negative
+873,Laptop Stand,battery drains fast not recommended,2,negative
+874,USB Cable,cheap material broke after few days,1,negative
+875,Wireless Mouse,cheap material broke after few days,1,negative
+876,Laptop Stand,not worth the price at all,2,negative
+877,Bluetooth Headphones,very disappointed stopped working quickly,1,negative
+878,Power Bank,poor quality waste of money,2,negative
+879,Desk Lamp,product arrived damaged,1,negative
+880,Phone Charger,performance is very slow and frustrating,2,negative
+881,Bluetooth Headphones,customer service was bad,1,negative
+882,Keyboard,one star extremely unhappy with purchase,1,negative
+883,Laptop Stand,cheap material broke after few days,1,negative
+884,USB Cable,performance is very slow and frustrating,2,negative
+885,Power Bank,battery drains fast not recommended,2,negative
+886,Wireless Mouse,battery drains fast not recommended,2,negative
+887,Webcam,performance is very slow and frustrating,2,negative
+888,Laptop Stand,product arrived damaged,2,negative
+889,Power Bank,battery drains fast not recommended,1,negative
+890,Laptop Stand,one star extremely unhappy with purchase,2,negative
+891,Smart Watch,product arrived damaged,2,negative
+892,USB Cable,poor quality waste of money,1,negative
+893,Desk Lamp,cheap material broke after few days,2,negative
+894,Power Bank,very disappointed stopped working quickly,1,negative
+895,Laptop Stand,very disappointed stopped working quickly,2,negative
+896,Desk Lamp,customer service was bad,1,negative
+897,Bluetooth Headphones,customer service was bad,1,negative
+898,Keyboard,terrible experience would not buy again,2,negative
+899,Laptop Stand,very disappointed stopped working quickly,2,negative
+900,Smart Watch,customer service was bad,2,negative
+901,USB Cable,very disappointed stopped working quickly,2,negative
+902,Keyboard,customer service was bad,2,negative
+903,Wireless Mouse,performance is very slow and frustrating,1,negative
+904,Wireless Mouse,product arrived damaged,1,negative
+905,USB Cable,product arrived damaged,1,negative
+906,Power Bank,performance is very slow and frustrating,1,negative
+907,USB Cable,terrible experience would not buy again,1,negative
+908,Laptop Stand,poor quality waste of money,2,negative
+909,Keyboard,poor quality waste of money,2,negative
+910,Phone Charger,terrible experience would not buy again,2,negative
+911,Keyboard,poor quality waste of money,1,negative
+912,Keyboard,performance is very slow and frustrating,2,negative
+913,Laptop Stand,poor quality waste of money,1,negative
+914,Laptop Stand,very disappointed stopped working quickly,2,negative
+915,Desk Lamp,cheap material broke after few days,2,negative
+916,Smart Watch,battery drains fast not recommended,1,negative
+917,Laptop Stand,battery drains fast not recommended,1,negative
+918,Power Bank,product arrived damaged,1,negative
+919,Keyboard,product arrived damaged,2,negative
+920,Keyboard,performance is very slow and frustrating,2,negative
+921,Bluetooth Headphones,terrible experience would not buy again,1,negative
+922,Phone Charger,very disappointed stopped working quickly,1,negative
+923,Keyboard,cheap material broke after few days,1,negative
+924,Bluetooth Headphones,poor quality waste of money,1,negative
+925,Wireless Mouse,performance is very slow and frustrating,2,negative
+926,Webcam,very disappointed stopped working quickly,2,negative
+927,Phone Charger,very disappointed stopped working quickly,1,negative
+928,Smart Watch,battery drains fast not recommended,2,negative
+929,Phone Charger,product arrived damaged,1,negative
+930,Power Bank,terrible experience would not buy again,1,negative
+931,Phone Charger,cheap material broke after few days,2,negative
+932,Webcam,poor quality waste of money,1,negative
+933,Keyboard,terrible experience would not buy again,2,negative
+934,Laptop Stand,performance is very slow and frustrating,2,negative
+935,Smart Watch,performance is very slow and frustrating,1,negative
+936,Desk Lamp,cheap material broke after few days,2,negative
+937,Wireless Mouse,not worth the price at all,1,negative
+938,Keyboard,product arrived damaged,1,negative
+939,Smart Watch,performance is very slow and frustrating,2,negative
+940,Bluetooth Headphones,not worth the price at all,1,negative
+941,Keyboard,not worth the price at all,1,negative
+942,Desk Lamp,not worth the price at all,2,negative
+943,Keyboard,poor quality waste of money,1,negative
+944,Desk Lamp,very disappointed stopped working quickly,2,negative
+945,Bluetooth Headphones,terrible experience would not buy again,2,negative
+946,Smart Watch,not worth the price at all,2,negative
+947,Power Bank,customer service was bad,2,negative
+948,Desk Lamp,product arrived damaged,2,negative
+949,Bluetooth Headphones,cheap material broke after few days,2,negative
+950,Bluetooth Headphones,performance is very slow and frustrating,2,negative
+951,Power Bank,poor quality waste of money,2,negative
+952,Webcam,very disappointed stopped working quickly,2,negative
+953,Laptop Stand,terrible experience would not buy again,2,negative
+954,Smart Watch,customer service was bad,1,negative
+955,Smart Watch,poor quality waste of money,2,negative
+956,Power Bank,performance is very slow and frustrating,1,negative
+957,Phone Charger,not worth the price at all,1,negative
+958,Desk Lamp,very disappointed stopped working quickly,2,negative
+959,Phone Charger,product arrived damaged,1,negative
+960,Phone Charger,poor quality waste of money,2,negative
+961,Smart Watch,terrible experience would not buy again,2,negative
+962,Webcam,very disappointed stopped working quickly,1,negative
+963,Power Bank,terrible experience would not buy again,1,negative
+964,Desk Lamp,one star extremely unhappy with purchase,2,negative
+965,Phone Charger,very disappointed stopped working quickly,1,negative
+966,Webcam,performance is very slow and frustrating,2,negative
+967,Bluetooth Headphones,not worth the price at all,1,negative
+968,Power Bank,cheap material broke after few days,1,negative
+969,USB Cable,poor quality waste of money,2,negative
+970,USB Cable,customer service was bad,2,negative
+971,Webcam,one star extremely unhappy with purchase,1,negative
+972,Keyboard,customer service was bad,2,negative
+973,Power Bank,poor quality waste of money,2,negative
+974,Webcam,poor quality waste of money,1,negative
+975,Webcam,poor quality waste of money,1,negative
+976,Wireless Mouse,poor quality waste of money,1,negative
+977,Laptop Stand,terrible experience would not buy again,1,negative
+978,Smart Watch,not worth the price at all,1,negative
+979,USB Cable,poor quality waste of money,1,negative
+980,Wireless Mouse,poor quality waste of money,2,negative
+981,Bluetooth Headphones,product arrived damaged,1,negative
+982,Smart Watch,not worth the price at all,1,negative
+983,Bluetooth Headphones,battery drains fast not recommended,1,negative
+984,Power Bank,cheap material broke after few days,2,negative
+985,Wireless Mouse,product arrived damaged,2,negative
+986,Bluetooth Headphones,not worth the price at all,1,negative
+987,Bluetooth Headphones,terrible experience would not buy again,2,negative
+988,Power Bank,terrible experience would not buy again,2,negative
+989,Phone Charger,performance is very slow and frustrating,1,negative
+990,Phone Charger,battery drains fast not recommended,1,negative
+991,Phone Charger,one star extremely unhappy with purchase,1,negative
+992,Webcam,performance is very slow and frustrating,1,negative
+993,USB Cable,not worth the price at all,1,negative
+994,Desk Lamp,cheap material broke after few days,1,negative
+995,Wireless Mouse,battery drains fast not recommended,1,negative
+996,Webcam,terrible experience would not buy again,1,negative
+997,Phone Charger,performance is very slow and frustrating,1,negative
+998,Wireless Mouse,customer service was bad,1,negative
+999,Bluetooth Headphones,performance is very slow and frustrating,1,negative
+1000,Bluetooth Headphones,five stars totally worth it,5,positive
