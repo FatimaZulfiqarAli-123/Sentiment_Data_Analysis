@@ -30,5 +30,11 @@ You will explore text preprocessing, visualizations, and build **machine learnin
 * Scikit-learn  
 * NLTK / SpaCy (for text preprocessing)  
 * Jupyter Notebook (VS Code)
+---
+📊 Output
+
+✅ Model accuracy on test data
+📑 Classification report (precision, recall, F1-score)
+🧮 Confusion matrix showing correct/incorrect predictions
 
 
